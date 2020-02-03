@@ -1,7 +1,7 @@
 <h3>Project Title [Project Nickname_Yr Started_Paper/Project Nickname]</h3>
 <i>Project Status: [Planning / In Progress / Complete]</i></br>
 
-<h3>Project Description:</h3>
+<h3>Project Description</h3>
 <ul>
   <li>Background</li>
   <li>Aim of the project</li>
@@ -17,7 +17,7 @@ Example: These scripts were written in R version XXX and RStudio Version XXX. Th
   <li> broom </li>
 </ul> 
 
-<h3>Getting Started:</h3>
+<h3>Getting Started</h3>
 The R folder contains:
 <ul>
   <li><b>01_cleaning</b> - Prepare data for future analyses</li>
