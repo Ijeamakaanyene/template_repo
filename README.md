@@ -23,7 +23,7 @@ The R folder contains:
   <li><b>01_cleaning</b> - Prepare data for future analyses</li>
   <li><b>02_summary_stats</b> - Creation of summary stats tables</li>
   <li><b>03_regressions</b> - Runs logistic regression models and outputs summary</li>
-<ul>
+</ul>
 
 
 <h3>Authors</h3>
