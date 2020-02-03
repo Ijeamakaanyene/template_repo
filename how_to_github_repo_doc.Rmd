@@ -61,7 +61,7 @@ There are multiple strategies! The most important thing is you **pick** a strate
 ### Overview
 Here is a picture of how I usually like to set up my repo for analysis projects.
 
-![](../images/file_directory.png)
+![](images/file_directory.png)
 
 ### Detailed Tabs
 **Rproj file**
@@ -73,7 +73,7 @@ This file and its contents *should not* be pushed to github. However it is an im
 **Scripts / Analysis**
 Typically contains all of my scripts written in R. You want your scripts to be broken out into distinguishable chunks based on what you accomplish with each script. They should also be numbered by which order they need to be run in. 
 
-![](../images/scripts.png)
+![](images/scripts.png)
 
 **Outputs**
 This file typically contains a myriad of information. It can be tables, graphics, etc. Depending on what it contains - if the results are confidential or sensitive participant information  - you should not push it to github. 
